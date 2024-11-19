@@ -1,7 +1,0 @@
-
-Name                           Value
-----                           -----
-User Name                      Unsatisfactory
-Aatmendra Gautam               Invalid Grade
-Sujan Shrestha                 Excellent
-

@@ -9,8 +9,8 @@ menu item entries. The user will be able to make menu item selection until they 
 .EXAMPLE
 Refer to YouTube video Sample Run in lab 6 instructions
 .NOTES
-Author: Your Full Name
-LastDateModified: Today's Date
+Author: Sujan Shrestha
+LastDateModified: Nov 19 , 2024
 #>
 
 
