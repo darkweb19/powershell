@@ -1,0 +1,16 @@
+---------------------------------------
+            Grading Menu
+----------------------------------------
+
+
+1. Enter Student Name
+
+2. Enter Student Grades
+
+3. Evaluate Grades
+
+
+4. Create Hash Tables
+
+
+5. Exit program
